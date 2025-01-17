@@ -1,4 +1,5 @@
 # obsidian-to-telegram-plugin
+![IMG_7483](https://github.com/user-attachments/assets/91790b7e-e2db-4c54-9df2-e710806c76b0)
 
 Plugin for publishing Obsidian notes to Telegram channels with support for text and images.
 
